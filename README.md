@@ -10,7 +10,7 @@ show the discretization
 2. Perform Feature Engineering by executing the following task:
     1. Appropriately use PCA (Principal Component Analysis) or SVD (Singular Value Decomposition) for feature reduction.
     2. Identify significant and independent features using appropriate techniques. Show how you selected the features using suitable graphs.
-3. Apply the following techniques to predict the value of Y for the test dataset (K =10)
+3. Apply the following techniques to predict the value of Y (Estimated Shares Outstanding) for the test dataset (K =10)
     1. Linear Regression with Cross Validation
     2. Lasso Regression with Cross Validation
     3. Ridge Regression with Cross Validation
